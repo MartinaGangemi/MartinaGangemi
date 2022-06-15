@@ -13,5 +13,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=martinagangemi&show_icons=true&locale=en&layout=compact" alt="martinagangemi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martinagangemi&show_icons=true&locale=en" alt="martinagangemi" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=martinagangemi&show_icons=true&locale=en" alt="MartinaGangemi" /></p>
 
